@@ -216,5 +216,7 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
+#
+*.csv
 # Streamlit
 .streamlit/secrets.toml
